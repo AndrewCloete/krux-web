@@ -1,0 +1,21 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Krux
+theme: krux-hugo-theme
+menu:
+  main:
+    - name: Blog
+      url: blog
+      weight: 1
+    - name: What We Do
+      url: what-we-do
+      weight: 2
+    - name: Courses
+      url: courses
+      weight: 3
+    - name: Art Gallery
+      url: gallery
+      weight: 4
+    - name: Meet the team
+      url: team
+      weight: 5

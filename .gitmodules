@@ -1,0 +1,3 @@
+[submodule "themes/krux-hugo-theme"]
+	path = themes/krux-hugo-theme
+	url = git@github.com:AndrewCloete/krux-hugo-theme.git
