@@ -10,7 +10,7 @@ hugo server --disableFastRender
 
 Compress images
 ```sh
-F="png"
-NAME="dining2"
-convert  "${NAME}.${F}" -quality 100 "${NAME}.webp"
+F="jpg"
+NAME="In-praise-of-the-album"
+convert  "${NAME}.${F}" -quality 90  "${NAME}.webp"
 ```

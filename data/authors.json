@@ -1,18 +1,18 @@
 {
   "otto_bam": {
     "name": "Otto Bam",
-    "imageUrl": "/authors/otto_bam.png"
+    "imageUrl": "/authors/otto_bam.webp"
   },
   "jb_krohn": {
     "name": "JB Krohn",
-    "imageUrl": "/authors/jb_krohn.png"
+    "imageUrl": "/authors/jb_krohn.webp"
   },
   "ydi_carstens": {
     "name": "Ydi Carstens",
-    "imageUrl": "/authors/ydi.png"
+    "imageUrl": "/authors/ydi.webp"
   },
   "corli_krohn": {
     "name": "Corli Kron",
-    "imageUrl": "/authors/corli.png"
+    "imageUrl": "/authors/corli.webp"
   }
 }

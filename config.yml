@@ -3,8 +3,8 @@ languageCode: en-us
 title: Krux
 theme: krux-hugo-theme
 params:
-  staticURL: https://github.com/AndrewCloete/krux-static/blob/master/
-  # staticURL: http://localhost:1313/krux-web/
+  staticURL: https://github.com/AndrewCloete/krux-static/blob/master
+  # staticURL: http://localhost:1313/krux-web
 menu:
   main:
     - name: Blog
