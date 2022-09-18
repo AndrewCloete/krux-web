@@ -648,8 +648,8 @@ video {
   height: 100vh;
 }
 
-.h-\[30vh\] {
-  height: 30vh;
+.h-\[50vh\] {
+  height: 50vh;
 }
 
 .w-3\/4 {
@@ -1207,8 +1207,12 @@ body {
 }
 
 @media (min-width: 1024px) {
-  .lg\:h-\[50vh\] {
-    height: 50vh;
+  .lg\:h-\[40vh\] {
+    height: 40vh;
+  }
+
+  .lg\:h-\[30vh\] {
+    height: 30vh;
   }
 
   .lg\:w-1\/2 {
