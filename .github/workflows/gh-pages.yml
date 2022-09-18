@@ -20,7 +20,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "16"
-      - run: npm ci
+      - run: npm ci --include=dev
         working-directory: ./themes/krux-hugo-theme
       - run: npm run build-tw
         working-directory: ./themes/krux-hugo-theme
