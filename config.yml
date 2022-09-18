@@ -2,6 +2,8 @@ baseURL: https://andrewcloete.github.io/krux-web/
 languageCode: en-us
 title: Krux
 theme: krux-hugo-theme
+params:
+  staticURL: https://github.com/AndrewCloete/krux-static/blob/master/
 menu:
   main:
     - name: Blog
