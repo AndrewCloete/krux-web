@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://andrewcloete.github.io/krux-web/
 languageCode: en-us
 title: Krux
 theme: krux-hugo-theme
