@@ -6,10 +6,6 @@ Image: "/blog/Bruegel-the-Elder-The-Fall-of-the-Rebel-Angels-–-crop.jpg"
 Date: "2021-08-31"
 ---
 
-# Intro
-This is my intro. The quick brown fox jumps over the lazy dog.
-
-
 # Drawn to Revelation
 It is not surprising to find oneself drawn to “the Revelation from Jesus Christ … to his servant John” (Rev 1:1) at a time such as this. To be sure, the Revelation is a strange book with bizarre creatures and indecipherable episodes re-imagined and re-purposed from an ancient vault of Biblical apocalyptic imagery. And, as GK Chesterton so aptly put it; “Though St. John the Evangelist saw many strange monsters in his vision, he saw no creatures so wild as one of his own commentators.” Yet instinctively we sense, if the reader would “heed” (1:3) the words in this book, navigational directives will emerge by which to surmount tumultuous times. Herein lies the allure of the apocalyptic.
 
